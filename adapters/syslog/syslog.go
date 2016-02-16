@@ -8,6 +8,7 @@ import (
 	"log/syslog"
 	"net"
 	"os"
+	"strings"
 	"text/template"
 	"time"
 
